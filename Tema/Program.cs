@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tema
 {
-    class Problema1
+    class Program
     {
         static void Main(string[] args)
         {
