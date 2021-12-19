@@ -1,0 +1,7 @@
+E:\Code\Tema\Tema\bin\Debug\Tema.exe.config
+E:\Code\Tema\Tema\bin\Debug\Tema.exe
+E:\Code\Tema\Tema\bin\Debug\Tema.pdb
+E:\Code\Tema\Tema\obj\Debug\Teme.csproj.AssemblyReference.cache
+E:\Code\Tema\Tema\obj\Debug\Teme.csproj.CoreCompileInputs.cache
+E:\Code\Tema\Tema\obj\Debug\Tema.exe
+E:\Code\Tema\Tema\obj\Debug\Tema.pdb
