@@ -1,0 +1,7 @@
+E:\Code\Tema\Problema36\obj\Debug\Problema36.csproj.AssemblyReference.cache
+E:\Code\Tema\Problema36\obj\Debug\Problema36.csproj.CoreCompileInputs.cache
+E:\Code\Tema\Problema36\bin\Debug\Problema36.exe.config
+E:\Code\Tema\Problema36\bin\Debug\Problema36.exe
+E:\Code\Tema\Problema36\bin\Debug\Problema36.pdb
+E:\Code\Tema\Problema36\obj\Debug\Problema36.exe
+E:\Code\Tema\Problema36\obj\Debug\Problema36.pdb

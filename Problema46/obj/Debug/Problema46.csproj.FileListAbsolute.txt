@@ -1,0 +1,6 @@
+E:\Code\Tema\Problema46\bin\Debug\Problema46.exe.config
+E:\Code\Tema\Problema46\bin\Debug\Problema46.exe
+E:\Code\Tema\Problema46\bin\Debug\Problema46.pdb
+E:\Code\Tema\Problema46\obj\Debug\Problema46.csproj.CoreCompileInputs.cache
+E:\Code\Tema\Problema46\obj\Debug\Problema46.exe
+E:\Code\Tema\Problema46\obj\Debug\Problema46.pdb
