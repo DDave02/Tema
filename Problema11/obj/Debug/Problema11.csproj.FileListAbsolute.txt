@@ -1,0 +1,7 @@
+E:\Code\Tema\Problema11\bin\Debug\Problema11.exe.config
+E:\Code\Tema\Problema11\bin\Debug\Problema11.exe
+E:\Code\Tema\Problema11\bin\Debug\Problema11.pdb
+E:\Code\Tema\Problema11\obj\Debug\Problema11.csproj.AssemblyReference.cache
+E:\Code\Tema\Problema11\obj\Debug\Problema11.csproj.CoreCompileInputs.cache
+E:\Code\Tema\Problema11\obj\Debug\Problema11.exe
+E:\Code\Tema\Problema11\obj\Debug\Problema11.pdb
