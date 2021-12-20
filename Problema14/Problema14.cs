@@ -10,17 +10,20 @@ namespace Problema14
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Dati numere intregi cate doriti. Ultima sa fie 0");
             int a,mx,mn;
             a = int.Parse(Console.ReadLine());
             mx = a;
             mn = a;
-            while (a!=0)
+            while (true)
             {
-                a = int.Parse(Console.ReadLine());
+                if (a == 0)
+                    break;
                 if (a < mn)
                     mn = a;
                 if (mx < a)
                     mx = a;
+                a = int.Parse(Console.ReadLine());
             }
             Console.WriteLine($"Numarul maxim este {mx} si nr minim este {mn}");
         }

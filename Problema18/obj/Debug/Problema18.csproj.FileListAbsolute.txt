@@ -1,0 +1,7 @@
+E:\Code\Tema\Problema18\bin\Debug\Problema18.exe.config
+E:\Code\Tema\Problema18\bin\Debug\Problema18.exe
+E:\Code\Tema\Problema18\bin\Debug\Problema18.pdb
+E:\Code\Tema\Problema18\obj\Debug\Problema18.csproj.CoreCompileInputs.cache
+E:\Code\Tema\Problema18\obj\Debug\Problema18.exe
+E:\Code\Tema\Problema18\obj\Debug\Problema18.pdb
+E:\Code\Tema\Problema18\bin\Debug\error.wav
