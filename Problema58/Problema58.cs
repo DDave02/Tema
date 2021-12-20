@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Problema50
+namespace Problema58
 {
-    class Program
+    class Problema58
     {
         static void Main(string[] args)
         {
+            int 
         }
     }
 }
